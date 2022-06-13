@@ -7,15 +7,14 @@
 <p align='center'>
   <a href="https://github.com/piresgabriel"><img src="https://visitor-badge.glitch.me/badge?page_id=piresgabriel??style=for-the-badge&logo=appveyor"></a>
 </p>
-
-
+<br>
+<br>
 <p align='center'>
   <a href="https://www.linkedin.com/in/gabrielgpires/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:piresgabrieluk@gmail.com?subject=Hello%20Gabriel"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <h2>🚃  I am currently a Web Development Le Wagon student (ends in July/2022) </h2>
 <p><i>... and if you want to talk about that, feel free to reach out!</i></p>
-<br>
 <br>
 <h4>💡 I feel comfortable working with </h4>
 <p>
