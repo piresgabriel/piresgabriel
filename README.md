@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/gabrielgpires/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:piresgabrieluk@gmail.com?subject=Hello%20Gabriel"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<h4>🚃  I am currently a Web Development Le Wagon student (ends in July/2022) </h4>
-<h5><i>... and if you want to talk about that, feel free to reach out!</i></h5>
+<h2>🚃  I am currently a Web Development Le Wagon student (ends in July/2022) </h2>
+<p><i>... and if you want to talk about that, feel free to reach out!</i></p>
 <h4>💡 I feel comfortable working with </h4>
 <p>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
