@@ -13,7 +13,7 @@
 </p>
 <br>
 <br>
-<h2>🚃  I am currently a Web Development Le Wagon student (ends in July/2022) </h2>
+<h2>🚃  I have just finished a Web Development bootcamp at Le Wagon </h2>
 <p><i>... and if you want to talk about that, feel free to reach out!</i></p>
 <br>
 <h4>💡 I feel comfortable working with </h4>
