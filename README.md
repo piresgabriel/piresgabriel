@@ -1,7 +1,7 @@
 <h1 align='center'> Hello visitor 🎃</h1>
 
 <p align='center'>
-  I am a brazilian business executive, living and working in London. Please visit my LinkedIn to follow my career out of coding. I enjoy front-ending for fun.
+  I am a brazilian business executive, living and working in London. Please visit my LinkedIn to follow my career in PM'ing. I enjoy front-ending for fun.
 </p>
 
 <p align='center'>
