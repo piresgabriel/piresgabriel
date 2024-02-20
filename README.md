@@ -13,7 +13,7 @@
 </p>
 <br>
 <br>
-<h2>🚃  Assistant teacher at Web Development bootcamp at Le Wagon </h2>
+<h2>🚃  Web Dev bootcamp teacher at Le Wagon </h2>
 <p><i>... and if you want to talk about that, feel free to reach out!</i></p>
 <br>
 <h4>💡 I feel comfortable working with </h4>
