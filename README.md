@@ -5,9 +5,6 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/piresgabriel"><img src="https://visitor-badge.glitch.me/badge?page_id=piresgabriel??style=for-the-badge&logo=appveyor"></a>
-</p>
-<p align='center'>
   <a href="https://www.linkedin.com/in/gabrielgpires/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:piresgabrieluk@gmail.com?subject=Hello%20Gabriel"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
